@@ -1,0 +1,8 @@
+# netbeans
+nbproject
+
+# dojo
+js/dijit/
+js/dojo/
+js/dojox/
+
